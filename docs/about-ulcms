@@ -1,0 +1,31 @@
+## 
+## Indian court and cases informations - to organisations
+
+An organisation like an insurance company or a bank will be able to find all the cases (pending and disposed) related informations together.
+
+The organization can filter by date etc - and find all different cases informations at a glace.
+
+Now every case details is visible in : https://ecourts.gov.in/ecourts_home/
+But every court separately.
+
+So, organisations maintain an excel for all the cases agaist the, their status, next hearing dates, advocates, other parties etc.
+
+## In our app, an organisation will be able to see the followings :
+
+Case no
+Case title - parties (if not 2 names then miscellaneous case incident to another case)
+Advocate name
+Next hearing date
+
+Offending vehicle registration number for Insurance Companies 
+Nickname for Banks 
+
+## Organisation
+Organization - Industry / Sector / Type
+BAFINS (Banking, Financial Services and Insurance)
+
+## tech stack
+Stack: UI/UX - React / Typescript
+DB: dgraph
+Scraper: Python
+
